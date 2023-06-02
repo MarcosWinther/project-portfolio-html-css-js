@@ -10,9 +10,44 @@ body {
    color: #fff;
 }
 
+/*
+.background {
+   background: linear-gradient(-02turn, #000, #00F, #00008b);
+}
+*/
+
 .main {
    margin: 1rem;
    padding: 1rem;
    border: 1px solid #fff;
    border-radius: 1rem;
+}
+
+.main::before {
+   content: '';
+   background-image: url('../../assets/img/background.svg');
+   background-repeat: no-repeat;
+   background-size: contain;
+   display: inline-block;
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 140vh;
+   height: 100vh;
+   z-index: -1;
+}
+
+.main::after {
+   content: '';
+   background-image: url('../../assets/img/background.svg');
+   background-repeat: no-repeat;
+   background-size: contain;
+   display: inline-block;
+   position: fixed;
+   bottom: 0;
+   right: 0;
+   width: 140vh;
+   height: 100vh;
+   z-index: -1;
+   transform: rotate(180deg);
 }

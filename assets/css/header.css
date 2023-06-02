@@ -16,6 +16,7 @@
 }
 
 .header .title {
+   display: flex;
    font-family: 'Neue Machina';
    text-align: center;
 }
