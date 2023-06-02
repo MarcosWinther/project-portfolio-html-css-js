@@ -1,0 +1,21 @@
+@font-face {
+   font-family: 'Neue Machina';
+   src: url('../font/neue-machina-regular.otf');
+}
+.header {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.header .photo {
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
+}
+
+.header .title {
+   font-family: 'Neue Machina';
+   text-align: center;
+}
+
