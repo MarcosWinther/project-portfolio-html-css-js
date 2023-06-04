@@ -23,7 +23,8 @@ body {
    border-radius: 1rem;
 }
 
-.main::before {
+.main::before,
+.main::after {
    content: '';
    background-image: url('../../assets/img/background.svg');
    background-repeat: no-repeat;
@@ -38,16 +39,23 @@ body {
 }
 
 .main::after {
-   content: '';
-   background-image: url('../../assets/img/background.svg');
-   background-repeat: no-repeat;
-   background-size: contain;
-   display: inline-block;
-   position: fixed;
+   top: auto;
+   left: auto;
    bottom: 0;
    right: 0;
-   width: 140vh;
-   height: 100vh;
-   z-index: -1;
    transform: rotate(180deg);
+}
+
+@media only screen and (min-width: 768px) {
+
+   .main {
+      max-width: 1024px;
+      margin: 1rem auto;
+   }
+
+   .main::before,
+   .main::after {
+      width: 70vw;
+   }
+
 }
