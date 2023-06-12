@@ -10,6 +10,15 @@ body {
    color: #fff;
 }
 
+a {
+   color: #fff;
+   text-decoration: none;
+}
+
+a:hover {
+   text-decoration: underline;
+}
+
 /*
 .background {
    background: linear-gradient(-02turn, #000, #00F, #00008b);
