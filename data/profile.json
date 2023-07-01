@@ -1,0 +1,98 @@
+{
+  "name": "Marcos Winther Silva Carreiro",
+  "photo": "https://avatars.githubusercontent.com/u/44624583?s=400&u=d876861f1ede79352e5316d360b60546e7414170&v=4",
+  "job": "Junior Developer Front End",
+  "location": "Itumbiara - GO",
+  "phone": "(64) 99265-3049",
+  "email": "winthermarcos@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "GitHub",
+        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/github.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/css.png"
+      },
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/js.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      }
+    ],
+    "softSkills": [
+      "Facilidade em adquirir novos conhecimentos",
+      "Empatia",
+      "Facilidade de trabalhos práticos",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização",
+      "Comprometimento com Resultados"
+    ]
+  },
+  "languages": [
+    "Português BR (fluente)",
+    "Inglês (iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "Projeto Recriando o site do Wikipédia com layout melhor - tema Heartstopper",
+      "url": "https://github.com/MarcosWinther/projeto-recriando-o-site-wikepedia-com-layout-melhor",
+      "github": true
+    },
+    {
+      "name": "Projeto Curriculum Vitae Online",
+      "url": "https://github.com/MarcosWinther/curriculo-online-MarcosWinther",
+      "github": true
+    },
+    {
+      "name": "Projeto Pokedex com HTML, CSS e JavaScript",
+      "url": "https://github.com/MarcosWinther/project-pokedex-html-css-js",
+      "github": true
+    },
+    {
+      "name": "Projeto Blog - Filme Ratatouille",
+      "url": "https://github.com/MarcosWinther/project-angular-ratatouille-movie",
+      "github": true
+    },
+    {
+      "name": "Projeto Quiz - Scooby-Doo",
+      "url": "https://github.com/MarcosWinther/angular-project-quiz-scooby-doo",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Técnico de Infraestrutura TI / Randstad",
+      "period": "Nov 2021 - Fev 2023",
+      "description": "Terceirado. Contratado para prestar serviços para a empresa Lactalis do Brasil da cidade de Itumbiara - GO. Responsável pela resolução de problemas de hardware e software, auxiliando os usuários que abriram o chamado de atendimento no sistema Hélix. Principais tarefas: realizar instalações de programas, configurações de vpns (Checkpoint VPN), formatação de computadores Desktops e notebooks, instalação do Sistema Operacional (Windows 10) com as Normas Políticas da empresa, instalações e soluções de problemas de Pacote Office e configurações de compartilhamento de pastas, equipamentos e impressoras na rede. Para o acesso remoto são usadas as seguintes ferramentas: o TeamViewer, o compartilhamento de tela pelo Teams ou acesso pelo ip da máquina do usuário usando a ferramenta do Windows de Conexão Remota."
+    },
+    {
+      "name": "Técnico de Suporte em TI Interno / Core Telecom",
+      "period": "Jan 2021 - Abr 2021",
+      "description": "Responsável pelo atendimento ao cliente realizando serviços relacionados a conexão à internet. Principais tarefas: atender e realizar ligações para clientes, ativação e desbloqueio de conexão, resolver problemas relacionados a conexão via remoto, abrir e fechar ordens de serviços pelo sistema MK Solutions, atender clientes pelo WhatsApp no sistema MAXBOT, configurar roteadores, antenas e ONU e realizar limpeza no local de trabalho."
+    },
+    {
+      "name": "Analista de Suporte Técnico / 3AM It Services",
+      "period": "Dez 2019 - Jan 2020",
+      "description": "Projeto de migração de sistemas, sendo contratado para prestar serviços para Usina BP Bunge de Itumbiara - GO. Responsável pela migração dos sistemas dos computadores. Principais tarefas: configuração de usuários nas máquinas (Desktops e notebooks), instalação dos programas usados na empresa por esses usuários, instalação do SAP Logon e CrossLink, formatação dos notebooks e Desktops e instalação da imagem do Windows 10 com as Normas Políticas da empresa BP Bunge."
+    },
+    {
+      "name": "Suporte ao Usuário / Ministério Público do Estado de Goiás",
+      "period": "Out 2017 - Out 2019",
+      "description": "Estágio CIEE. Responsável pela resolução de problemas de hardware e software. Principais tarefas: auxiliar os colaboradores nos problemas de hardware e software, realizar configurações de compartilhamento de equipamentos e impressoras na rede, fazer o controle de material de informática da empresa usando a planilha de Excel e quando necessário realizar atendimentos ao público e ligações externas para a Organização."
+    }
+  ]
+}
