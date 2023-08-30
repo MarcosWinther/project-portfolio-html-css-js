@@ -35,6 +35,10 @@
    text-align: center;
 }
 
+.header .title span {
+   margin-left: 10px;
+}
+
 .header .information {
    display: flex;
    flex-direction: column;
