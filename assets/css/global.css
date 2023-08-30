@@ -30,14 +30,14 @@ a:hover {
    text-decoration: underline;
 }
 
-.main {
+main {
    margin: 1rem;
    padding: 1rem;
    border: 1px solid #fff;
    border-radius: 1rem;
 }
 
-.main::after {
+main::after {
    top: auto;
    left: auto;
    bottom: 0;
@@ -47,13 +47,13 @@ a:hover {
 
 @media only screen and (min-width: 768px) {
 
-   .main {
+   main {
       max-width: 1024px;
       margin: 1rem auto;
    }
 
-   .main::before,
-   .main::after {
+   main::before,
+   main::after {
       width: 70vw;
    }
 
