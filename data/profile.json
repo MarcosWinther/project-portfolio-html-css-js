@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "GitHub",
-        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/github.png"
+        "logo": "assets/img/tools/github.png"
       },
       {
         "name": "HTML",
-        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/html.png"
+        "logo": "assets/img/tools/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/css.png"
+        "logo": "assets/img/tools/css.png"
       },
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "assets/img/tools/nodejs.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/js.png"
+        "logo": "assets/img/tools/js.png"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "assets/img/tools/angular.png"
       }
     ],
     "softSkills": [
