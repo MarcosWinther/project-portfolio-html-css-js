@@ -1,6 +1,6 @@
 {
   "name": "Marcos Winther Silva Carreiro",
-  "photo": "https://avatars.githubusercontent.com/u/44624583?s=400&u=d876861f1ede79352e5316d360b60546e7414170&v=4",
+  "photo": "https://github.com/MarcosWinther/project-portfolio-html-css-js/blob/main/assets/img/MarcosWintherPhoto.jpg",
   "job": "Junior Developer Front End",
   "location": "Itumbiara - GO",
   "phone": "(64) 99265-3049",
@@ -55,6 +55,21 @@
     {
       "name": "Projeto Curriculum Vitae Online",
       "url": "https://github.com/MarcosWinther/curriculo-online-MarcosWinther",
+      "github": true
+    },
+    {
+      "name": "Projeto Criando sua primeira Landing Page com HTML e CSS",
+      "url": "https://github.com/MarcosWinther/project-css-dio-landing-page",
+      "github": true
+    },
+    {
+      "name": "Projeto Clonando a Página do Youtube com CSS",
+      "url": "https://github.com/MarcosWinther/project-css-dio-clone-youtube",
+      "github": true
+    },
+    {
+      "name": "Projeto Reproduzindo a Listagem do YouTube com Grid Layout no CSS",
+      "url": "https://github.com/MarcosWinther/project-css-grid-listagem-videos-youtube",
       "github": true
     },
     {
