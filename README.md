@@ -1,13 +1,38 @@
-# Projeto de Portfólio com HTML, CSS e JS
+## 👨‍💻 Desafio de Projeto: Portfólio com HTML, CSS e JS
+Este projeto de Portfólio com HTML, CSS e JS foi proposto pelo expert Renan Johansen no desafio de projeto da Formação JavaScript Developer da DIO.<br>
+Nesse projeto coloquei minhas informações profissionais e alguns projetos em destaque do meu repositório do GitHUb.
 
-Este projeto de Portfólio com HTML, CSS e JS foi proposto pelo expert Renan Johansen no desafio de projeto da Trilha JavaScript Developer da DIO.
+## 💻 Tecnologias usadas
+<div style="display: inline_block">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</div>
 
-> ## Objetivo:
-> - Criar um currículo com Portfólio utilizando HTML, CSS e JavaScript;
+## 🖥 Preview:
 
-> ## O que foi feito de diferente:
-> - O fundo do projeto utilizei CSS Paterns;
-> - Coloquei minhas informações de contato e profissionais, idiomas, cursos e projetos do meu GitHub.
+Site em um Desktop:
+<div>
+  <img src="assets/img/projeto-portfolio.PNG" alt="Site do Discord em um Desktop">
+</div>
 
-> ## Link GitHubPages:
-> - https://marcoswinther.github.io/project-portfolio-html-css-js/
+<br>
+
+Site em um dispositivo menor, como por exemplo um celular:
+<div>
+  <img src="assets/img/projeto-portfolio-responsive.PNG" alt="Site do Discord em um dispositivo menor, como por exemplo um celular">
+</div>
+
+- Venha ver como ficou o projeto acessando [aqui nesse link do GithubPages](https://marcoswinther.github.io/project-portfolio-html-css-js/)
+
+## ⚙ Execução desse projeto:
+1. **Clonar Repósitório:** basta utilizar o comando `git clone` para clonar esse projeto e salvar na máquina e depois executar o arquivo `index.html`.
+2. **GitHubPages:** pode também acessar o projeto nesse [link](https://marcoswinther.github.io/project-portfolio-html-css-js/), que abrirá esse projeto no GitHubPages, sem precisar baixar o repositório na sua máquina.
+
+## 🤔 O que foi feito de diferente nesse projeto:
+- O fundo do projeto utilizei CSS Paterns do site [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/);
+- Coloquei minhas informações de contato e profissionais, idiomas, cursos e projetos do meu GitHub.
+
+## 📌 Créditos
+- **Assets:** Disponível no protótipo do Figma disponibilizado no curso.
+- **CSS Patterns:** Disponível no site [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/)
